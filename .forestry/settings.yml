@@ -8,7 +8,7 @@ sections:
   label: Content
 - type: directory
   path: src/markdown-pages
-  label: Content
+  label: Pages
   create: all
   match: "**/*"
 upload_dir: uploads
