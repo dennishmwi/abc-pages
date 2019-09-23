@@ -1,0 +1,13 @@
+---
+label: Basic
+hide_body: false
+fields:
+- type: text
+  name: path
+  label: path
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
